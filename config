@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[user]
+	name = agi-link
+	email = dev@agilink.io
+[remote "origin"]
+	url = ag-github:agivpn/website.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+
